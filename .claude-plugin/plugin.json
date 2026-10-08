@@ -1,0 +1,8 @@
+{
+  "name": "agent-card",
+  "version": "0.2.0",
+  "description": "Styled Agent Card workflow with live lifecycle, task, worker and gate UI",
+  "author": {
+    "name": "Kavidu Hettiarachchi"
+  }
+}
